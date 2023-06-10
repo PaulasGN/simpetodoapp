@@ -1,0 +1,1 @@
+This app was developed as an assignment for open software course at Nankai University
